@@ -1,0 +1,1506 @@
+{
+  "items": [
+    {
+      "description": "Please take a quick gander at the contribution guidelines first. Thanks to all contributors; you rock!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!"
+    },
+    {
+      "description": "Storage Servers implemented in Go.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "minio",
+          "description": "Minio is an open source object storage server compatible with Amazon S3 APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-04-24T17:54:39Z",
+            "owner": "minio",
+            "repo": "minio",
+            "stars": 61393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rclone",
+          "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfile…",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T09:59:44Z",
+            "owner": "rclone",
+            "repo": "rclone",
+            "stars": 59121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rook",
+          "description": "Open, Cloud Native, and Universal Distributed Storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T16:39:08Z",
+            "owner": "rook",
+            "repo": "rook",
+            "stars": 13596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "perkeep",
+          "description": "Perkeep is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-01T21:28:19Z",
+            "owner": "perkeep",
+            "repo": "perkeep",
+            "stars": 7223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "storj",
+          "description": "Decentralized cloud object storage that is affordable, easy to use, private, and secure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T15:59:35Z",
+            "owner": "storj",
+            "repo": "storj",
+            "stars": 3278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3git",
+          "description": "Git for Cloud Storage. Distributed Version Control for Data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-08-02T00:27:55Z",
+            "owner": "s3git",
+            "repo": "s3git",
+            "stars": 1461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "longhorn",
+          "description": "Longhorn is an open source persistent block storage server delivered via containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T14:30:44Z",
+            "owner": "rancher",
+            "repo": "suse-storage",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Storage Server"
+    },
+    {
+      "description": "Key-Value Store implemented in Go.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "etcd",
+          "description": "Distributed reliable key-value store for the most critical data of a distributed system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T08:53:48Z",
+            "owner": "etcd-io",
+            "repo": "etcd",
+            "stars": 52119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "consul",
+          "description": "Distributed consistent replicated key-value store for service discovery and configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T07:06:59Z",
+            "owner": "hashicorp",
+            "repo": "consul",
+            "stars": 30029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BadgerDB",
+          "description": "BadgerDB is an embeddable, persistent, simple and fast key-value (KV) database written in pure Go. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T13:12:43Z",
+            "owner": "dgraph-io",
+            "repo": "badger",
+            "stars": 15749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-cache",
+          "description": "An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-20T05:12:16Z",
+            "owner": "patrickmn",
+            "repo": "go-cache",
+            "stars": 8842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rosedb",
+          "description": "A fast, stable and embedded k-v database in pure Golang, supports string, list, hash, set, sorted set.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-10T03:41:42Z",
+            "owner": "rosedblabs",
+            "repo": "rosedb",
+            "stars": 4883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nutsdb",
+          "description": "Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T02:49:35Z",
+            "owner": "nutsdb",
+            "repo": "nutsdb",
+            "stars": 3577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LotusDB",
+          "description": "Fast k/v storage compatible with lsm tree and b+tree.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-02-18T08:07:46Z",
+            "owner": "lotusdblabs",
+            "repo": "lotusdb",
+            "stars": 2256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "column",
+          "description": "Embeddable, columnar, in-memory store with bitmap indexing, transaction and zero-alloc quering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-06-28T09:16:05Z",
+            "owner": "kelindar",
+            "repo": "column",
+            "stars": 1512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diskv",
+          "description": "A disk-backed key-value store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-11-10T01:12:08Z",
+            "owner": "peterbourgon",
+            "repo": "diskv",
+            "stars": 1455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pogreb",
+          "description": "Embedded key-value store for read-heavy workloads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-06T23:31:53Z",
+            "owner": "akrylysov",
+            "repo": "pogreb",
+            "stars": 1351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IceFireDB",
+          "description": "Distributed disk storage database using the Raft and Redis protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T11:43:21Z",
+            "owner": "IceFireDB",
+            "repo": "IceFireDB",
+            "stars": 1155
+          }
+        }
+      ],
+      "title": "Key-Value Store"
+    },
+    {
+      "description": "File Systems implemented in Go.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "git-lfs",
+          "description": "Git extension for versioning large files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T00:25:32Z",
+            "owner": "git-lfs",
+            "repo": "git-lfs",
+            "stars": 14421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juicefs",
+          "description": "A distributed POSIX file system built on top of Redis and S3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T10:30:13Z",
+            "owner": "juicedata",
+            "repo": "juicefs",
+            "stars": 14313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fsnotify",
+          "description": "Cross-platform file system notifications for Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-11T11:23:52Z",
+            "owner": "fsnotify",
+            "repo": "fsnotify",
+            "stars": 10758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "afero",
+          "description": "A FileSystem Abstraction System for Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-08T20:03:41Z",
+            "owner": "spf13",
+            "repo": "afero",
+            "stars": 6687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goofys",
+          "description": "A high-performance, POSIX-ish Amazon S3 file system written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-18T14:25:03Z",
+            "owner": "kahing",
+            "repo": "goofys",
+            "stars": 5566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minikeyvalue",
+          "description": "A ~1000 line distributed key value store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-10T01:02:59Z",
+            "owner": "geohot",
+            "repo": "minikeyvalue",
+            "stars": 3151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-systemd",
+          "description": "Go bindings to systemd socket activation, journal, D-Bus, and unit files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-23T00:05:07Z",
+            "owner": "coreos",
+            "repo": "go-systemd",
+            "stars": 2706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gcsfuse",
+          "description": "A user-space file system for interacting with Google Cloud Storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T14:53:01Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "gcsfuse",
+            "stars": 2299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svfs",
+          "description": "A virtual file system over Openstack Swift built upon fuse.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-03-15T15:21:08Z",
+            "owner": "ovh",
+            "repo": "svfs",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seaweedfs",
+          "description": "SeaweedFS is a simple and highly scalable distributed file system for small files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-21T07:44:51Z",
+            "owner": "chrislusf",
+            "repo": "seaweedfs",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "File System"
+    },
+    {
+      "description": "Databases implemented in Go.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "prometheus",
+          "description": "Monitoring system and time series database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T17:11:41Z",
+            "owner": "prometheus",
+            "repo": "prometheus",
+            "stars": 65727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidb",
+          "description": "TiDB is a distributed SQL database. Inspired by the design of Google F1.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T17:05:49Z",
+            "owner": "pingcap",
+            "repo": "tidb",
+            "stars": 40425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cockroach",
+          "description": "A Scalable, Geo-Replicated, Transactional Datastore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T17:28:36Z",
+            "owner": "cockroachdb",
+            "repo": "cockroach",
+            "stars": 32385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "influxdb",
+          "description": "Scalable datastore for metrics, events, and real-time analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T17:04:50Z",
+            "owner": "influxdata",
+            "repo": "influxdb",
+            "stars": 31691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dolt",
+          "description": "A MySQL-compatible database with Git-style version control. The first SQL database you can branch and merge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:08:05Z",
+            "owner": "dolthub",
+            "repo": "dolt",
+            "stars": 24168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dgraph",
+          "description": "Scalable, Distributed, Low Latency, High Throughput Graph Database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T13:39:11Z",
+            "owner": "dgraph-io",
+            "repo": "dgraph",
+            "stars": 21772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rqlite",
+          "description": "The lightweight, distributed, relational database built on SQLite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T13:13:23Z",
+            "owner": "rqlite",
+            "repo": "rqlite",
+            "stars": 17677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VictoriaMetrics",
+          "description": "Time series database designed for monitoring, compatible with PromQL (from Promethueus) and InfluxQL (from Influxdb).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T15:57:49Z",
+            "owner": "VictoriaMetrics",
+            "repo": "VictoriaMetrics",
+            "stars": 17522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bolt",
+          "description": "A low-level key/value database for Go. This original version by Ben Johnson has been marked as unmaintained and forked by etcd-io bbolt.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2018-03-02T18:00:53Z",
+            "owner": "boltdb",
+            "repo": "bolt",
+            "stars": 14642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "groupcache",
+          "description": "Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-11-29T21:07:26Z",
+            "owner": "golang",
+            "repo": "groupcache",
+            "stars": 13336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tile38",
+          "description": "A geolocation DB with spatial index and realtime geofencing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T12:16:28Z",
+            "owner": "tidwall",
+            "repo": "tile38",
+            "stars": 9714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "immudb",
+          "description": "Database with built-in cryptographic proof and verification. Can operate as a key-value store or as relational database (SQL).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T18:13:47Z",
+            "owner": "codenotary",
+            "repo": "immudb",
+            "stars": 9019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-cache",
+          "description": "An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-20T05:12:16Z",
+            "owner": "patrickmn",
+            "repo": "go-cache",
+            "stars": 8842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigCache",
+          "description": "Efficient key/value cache for gigabytes of data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T13:55:45Z",
+            "owner": "allegro",
+            "repo": "bigcache",
+            "stars": 8145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noms",
+          "description": "The versioned, forkable, syncable database.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-08-27T22:44:22Z",
+            "owner": "attic-labs",
+            "repo": "noms",
+            "stars": 7424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpiceDB",
+          "description": "A Zanzibar-inspired database that stores, computes, and validates application permissions with support for multiple database backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T18:45:31Z",
+            "owner": "authzed",
+            "repo": "spicedb",
+            "stars": 6959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goleveldb",
+          "description": "An implementation of the LevelDB key/value database in the Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-14T20:40:52Z",
+            "owner": "syndtr",
+            "repo": "goleveldb",
+            "stars": 6321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "buntdb",
+          "description": "A fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-19T13:29:56Z",
+            "owner": "tidwall",
+            "repo": "buntdb",
+            "stars": 4862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pREST",
+          "description": "Serve a RESTful API from any PostgreSQL database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T22:40:38Z",
+            "owner": "prest",
+            "repo": "prest",
+            "stars": 4611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ledisdb",
+          "description": "Ledisdb is a high performance NoSQL like Redis based on LevelDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-10-22T02:24:37Z",
+            "owner": "ledisdb",
+            "repo": "ledisdb",
+            "stars": 4115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emitter",
+          "description": "Scalable, low-latency, distributed & secure pub/sub database with time-series message storage, suitable for IoT, gaming, apps and real-time web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-29T14:51:46Z",
+            "owner": "emitter-io",
+            "repo": "emitter",
+            "stars": 4002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "godis",
+          "description": "A Golang implemented high-performance Redis server and cluster",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-14T08:05:30Z",
+            "owner": "HDT3213",
+            "repo": "godis",
+            "stars": 3836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GCache",
+          "description": "Cache library with support for expirable Cache, LFU, LRU and ARC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-01T12:49:21Z",
+            "owner": "bluele",
+            "repo": "gcache",
+            "stars": 2729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiedot",
+          "description": "Your NoSQL database powered by Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-09-05T17:47:27Z",
+            "owner": "HouzuoGuo",
+            "repo": "tiedot",
+            "stars": 2726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cache2go",
+          "description": "An in-memory key:value cache which supports automatic invalidation based on timeouts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-02T15:31:52Z",
+            "owner": "muesli",
+            "repo": "cache2go",
+            "stars": 2150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frostdb",
+          "description": "Embeddable column database written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:28:58Z",
+            "owner": "polarsignals",
+            "repo": "frostdb",
+            "stars": 1541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CovenantSQL",
+          "description": "A SQL Database with Blockchain features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-25T09:40:53Z",
+            "owner": "CovenantSQL",
+            "repo": "CovenantSQL",
+            "stars": 1527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diskv",
+          "description": "A home-grown disk-backed key-value store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-11-10T01:12:08Z",
+            "owner": "peterbourgon",
+            "repo": "diskv",
+            "stars": 1455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "objectbox-go",
+          "description": "Embedded Object Database (NoSQL) with Go API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-03-12T13:34:35Z",
+            "owner": "objectbox",
+            "repo": "objectbox-go",
+            "stars": 1273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eliasdb",
+          "description": "Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-08-14T09:04:27Z",
+            "owner": "krotik",
+            "repo": "eliasdb",
+            "stars": 1035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moss",
+          "description": "Moss is a simple LSM key-value storage engine written in 100% Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-23T22:38:54Z",
+            "owner": "couchbase",
+            "repo": "moss",
+            "stars": 1015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clover",
+          "description": "A lightweight document-oriented NoSQL database written in pure Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-09T06:13:01Z",
+            "owner": "ostafen",
+            "repo": "clover",
+            "stars": 831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "levigo",
+          "description": "Levigo is a Go wrapper for LevelDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-03-07T12:05:55Z",
+            "owner": "jmhodges",
+            "repo": "levigo",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piladb",
+          "description": "Lightweight RESTful database engine based on stack data structures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-05T17:19:16Z",
+            "owner": "fern4lvarez",
+            "repo": "piladb",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scribble",
+          "description": "A tiny flat file JSON store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-03-09T22:57:36Z",
+            "owner": "nanobox-io",
+            "repo": "golang-scribble",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geocache",
+          "description": "An in-memory cache that is suitable for geolocation based applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-06-21T16:53:18Z",
+            "owner": "melihmucuk",
+            "repo": "geocache",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "couchcache",
+          "description": "A RESTful caching micro-service backed by Couchbase server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-06-16T05:46:57Z",
+            "owner": "codingsince1985",
+            "repo": "couchcache",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "forestdb",
+          "description": "Go bindings for ForestDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2016-12-15T22:01:01Z",
+            "owner": "couchbase",
+            "repo": "goforestdb",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Database"
+    },
+    {
+      "description": "Libraries for connecting and operating databases.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Relational Databases",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "go-sql-driver/mysql",
+              "description": "MySQL driver for Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-13T14:28:05Z",
+                "owner": "go-sql-driver",
+                "repo": "mysql",
+                "stars": 15276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pgx",
+              "description": "PostgreSQL driver supporting features beyond those exposed by database/sql.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-01T15:45:51Z",
+                "owner": "jackc",
+                "repo": "pgx",
+                "stars": 14133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pq",
+              "description": "Pure Go Postgres driver for database/sql.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-03T19:36:19Z",
+                "owner": "lib",
+                "repo": "pq",
+                "stars": 9918
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-sqlite3",
+              "description": "SQLite3 driver for go that using database/sql.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-07-30T14:18:22Z",
+                "owner": "mattn",
+                "repo": "go-sqlite3",
+                "stars": 9206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-mssqldb",
+              "description": "Microsoft MSSQL driver in go language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2025-04-26T18:38:54Z",
+                "owner": "denisenkom",
+                "repo": "go-mssqldb",
+                "stars": 1883
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-oci8",
+              "description": "Oracle driver for go that using database/sql.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-08T17:31:21Z",
+                "owner": "mattn",
+                "repo": "go-oci8",
+                "stars": 631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "firebirdsql",
+              "description": "Firebird RDBMS SQL driver for Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-06T08:57:13Z",
+                "owner": "nakagami",
+                "repo": "firebirdsql",
+                "stars": 266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-adodb",
+              "description": "Microsoft ActiveX Object DataBase driver for go that using database/sql.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-10T06:43:26Z",
+                "owner": "mattn",
+                "repo": "go-adodb",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-bqstreamer",
+              "description": "BigQuery fast and concurrent stream insert.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Go",
+                "last_commit": "2017-10-29T10:36:26Z",
+                "owner": "kikinteractive",
+                "repo": "go-bqstreamer",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gofreetds",
+              "description": "Microsoft MSSQL driver. Go wrapper over FreeTDS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2020-11-30T22:32:55Z",
+                "owner": "minus5",
+                "repo": "gofreetds",
+                "stars": 114
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bgc",
+              "description": "Datastore Connectivity for BigQuery for go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-03-17T20:59:48Z",
+                "owner": "viant",
+                "repo": "bgc",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NoSQL Databases",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "redis",
+              "description": "Redis client for Golang",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-13T15:28:55Z",
+                "owner": "redis",
+                "repo": "go-redis",
+                "stars": 22217
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cayley",
+              "description": "A graph database with support for multiple backends.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-22T16:26:28Z",
+                "owner": "cayleygraph",
+                "repo": "cayley",
+                "stars": 15057
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redigo",
+              "description": "Redigo is a Go client for the Redis database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2025-11-02T15:23:35Z",
+                "owner": "gomodule",
+                "repo": "redigo",
+                "stars": 9856
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mongo-go-driver",
+              "description": "The Go driver for MongoDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-13T16:11:41Z",
+                "owner": "mongodb",
+                "repo": "mongo-go-driver",
+                "stars": 8535
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gomemcache",
+              "description": "memcache client library for the Go programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-12T21:10:27Z",
+                "owner": "bradfitz",
+                "repo": "gomemcache",
+                "stars": 1881
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gorethink",
+              "description": "Go language driver for RethinkDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2025-10-24T06:36:10Z",
+                "owner": "rethinkdb",
+                "repo": "rethinkdb-go",
+                "stars": 1645
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redis",
+              "description": "A simple, powerful Redis client for Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2016-07-30T15:45:59Z",
+                "owner": "hoisie",
+                "repo": "redis",
+                "stars": 583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aerospike-client-go",
+              "description": "Aerospike client in Go language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-12T09:40:27Z",
+                "owner": "aerospike",
+                "repo": "aerospike-client-go",
+                "stars": 459
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "redeo",
+              "description": "Redis-protocol compatible TCP servers/services.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2023-01-20T16:34:05Z",
+                "owner": "bsm",
+                "repo": "redeo",
+                "stars": 443
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "neoism",
+              "description": "Neo4j client for Golang",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2020-02-16T09:28:03Z",
+                "owner": "jmcvetta",
+                "repo": "neoism",
+                "stars": 388
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gocb",
+              "description": "Official Couchbase Go SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-10T16:15:22Z",
+                "owner": "couchbase",
+                "repo": "gocb",
+                "stars": 377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-couchbase",
+              "description": "Couchbase client in Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2025-08-25T23:31:26Z",
+                "owner": "couchbase",
+                "repo": "go-couchbase",
+                "stars": 323
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neo4j-GO",
+              "description": "Neo4j REST Client in golang.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Go",
+                "last_commit": "2018-06-20T12:15:38Z",
+                "owner": "davemeehan",
+                "repo": "Neo4j-GO",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arangolite",
+              "description": "Lightweight golang driver for ArangoDB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2021-03-10T17:27:51Z",
+                "owner": "solher",
+                "repo": "arangolite",
+                "stars": 72
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-couchdb",
+              "description": "Yet another CouchDB HTTP API wrapper for Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-04-09T11:19:55Z",
+                "owner": "fjl",
+                "repo": "go-couchdb",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dsc",
+              "description": "Datastore connectivity for SQL, NoSQL, structured files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2025-12-31T16:55:42Z",
+                "owner": "viant",
+                "repo": "dsc",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "goriak",
+              "description": "Go language driver for Riak KV",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2021-09-15T17:43:18Z",
+                "owner": "zegl",
+                "repo": "goriak",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "neo4j",
+              "description": "Neo4j Rest API Bindings for Golang",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2015-04-02T17:38:48Z",
+                "owner": "cihangir",
+                "repo": "neo4j",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "asc",
+              "description": "Datastore Connectivity for Aerospike for go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-09-20T19:59:12Z",
+                "owner": "viant",
+                "repo": "asc",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dynago",
+              "description": "Dynago is a principle of least surprise client for DynamoDB",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Search and Analytic Databases",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bleve",
+              "description": "A modern text indexing library for go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-13T09:21:45Z",
+                "owner": "blevesearch",
+                "repo": "bleve",
+                "stars": 11179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elastic",
+              "description": "Elasticsearch client for Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-08-08T07:48:39Z",
+                "owner": "olivere",
+                "repo": "elastic",
+                "stars": 7447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elastigo",
+              "description": "A Elasticsearch client library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2019-02-05T18:17:02Z",
+                "owner": "mattbaird",
+                "repo": "elastigo",
+                "stars": 941
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "skizze",
+              "description": "A probabilistic data-structures service and storage.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Multiple Backends",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gokv",
+              "description": "A simple key-value store interface and many implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2025-11-20T02:06:51Z",
+                "owner": "philippgille",
+                "repo": "gokv",
+                "stars": 827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fiber Storage",
+              "description": "Premade storage drivers that implement the Storage interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-13T07:35:00Z",
+                "owner": "gofiber",
+                "repo": "storage",
+                "stars": 335
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Database Drivers"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:11:49.005Z",
+    "original_repository": "gostor/awesome-go-storage",
+    "original_repository_sha": "ae62c14fb9a809ea0732d15f5b5e761dcba153c1",
+    "enhanced_repository": "enhansome/enhansome-go-storage",
+    "enhanced_repository_description": null,
+    "title": "Awesome Go Storage with stars"
+  }
+}
