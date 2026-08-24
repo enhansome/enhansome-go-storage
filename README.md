@@ -1,10 +1,10 @@
 # Awesome Go Storage with stars
 
-A curated list of awesome Go storage projects and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,107 | 🐛 215 | 🌐 Go | 📅 2026-08-21.
+A curated list of awesome Go storage projects and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,124 | 🐛 215 | 🌐 Go | 📅 2026-08-24.
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/gostor/awesome-go-storage/blob/master/CONTRIBUTING.md) ⭐ 4,725 | 🐛 8 | 📅 2024-12-25 first. Thanks to all [contributors](https://github.com/gostor/awesome-go-storage/graphs/contributors) ⭐ 4,725 | 🐛 8 | 📅 2024-12-25; you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/gostor/awesome-go-storage/blob/master/CONTRIBUTING.md) ⭐ 4,726 | 🐛 8 | 📅 2024-12-25 first. Thanks to all [contributors](https://github.com/gostor/awesome-go-storage/graphs/contributors) ⭐ 4,726 | 🐛 8 | 📅 2024-12-25; you rock!
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
@@ -22,8 +22,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 *Storage Servers implemented in Go.*
 
 * [minio](https://github.com/minio/minio) ⚠️ Archived - Minio is an open source object storage server compatible with Amazon S3 APIs.
-* [rclone](https://github.com/ncw/rclone) ⭐ 59,353 | 🐛 1,250 | 🌐 Go | 📅 2026-08-21 - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfile…
-* [rook](https://github.com/rook/rook) ⭐ 13,609 | 🐛 148 | 🌐 Go | 📅 2026-08-24 - Open, Cloud Native, and Universal Distributed Storage.
+* [rclone](https://github.com/ncw/rclone) ⭐ 59,360 | 🐛 1,251 | 🌐 Go | 📅 2026-08-24 - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfile…
+* [rook](https://github.com/rook/rook) ⭐ 13,609 | 🐛 147 | 🌐 Go | 📅 2026-08-24 - Open, Cloud Native, and Universal Distributed Storage.
 * [perkeep](https://github.com/perkeep/perkeep) ⭐ 7,227 | 🐛 413 | 🌐 Go | 📅 2026-02-01 - Perkeep is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 * [storj](https://github.com/storj/storj) ⭐ 3,277 | 🐛 360 | 🌐 Go | 📅 2026-08-24 - Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 * [s3git](https://github.com/s3git/s3git) ⭐ 1,461 | 🐛 20 | 🌐 Go | 📅 2016-08-02 - Git for Cloud Storage. Distributed Version Control for Data.
@@ -34,7 +34,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 *Key-Value Store implemented in Go.*
 
 * [etcd](https://github.com/coreos/etcd) ⭐ 52,165 | 🐛 316 | 🌐 Go | 📅 2026-08-24 - Distributed reliable key-value store for the most critical data of a distributed system.
-* [consul](https://github.com/hashicorp/consul) ⭐ 30,039 | 🐛 1,414 | 🌐 Go | 📅 2026-08-24 - Distributed consistent replicated key-value store for service discovery and configuration.
+* [consul](https://github.com/hashicorp/consul) ⭐ 30,039 | 🐛 1,416 | 🌐 Go | 📅 2026-08-24 - Distributed consistent replicated key-value store for service discovery and configuration.
 * [BadgerDB](https://github.com/dgraph-io/badger) ⭐ 15,758 | 🐛 70 | 🌐 Go | 📅 2026-08-22 - BadgerDB is an embeddable, persistent, simple and fast key-value (KV) database written in pure Go. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.
 * [go-cache](https://github.com/patrickmn/go-cache) ⭐ 8,844 | 🐛 77 | 🌐 Go | 📅 2023-11-20 - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 * [rosedb](https://github.com/roseduan/rosedb) ⭐ 4,882 | 🐛 7 | 🌐 Go | 📅 2026-02-10 - A fast, stable and embedded k-v database in pure Golang, supports string, list, hash, set, sorted set.
@@ -51,14 +51,14 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 *File Systems implemented in Go.*
 
-* [git-lfs](https://github.com/git-lfs/git-lfs) ⭐ 14,438 | 🐛 484 | 🌐 Go | 📅 2026-08-19 - Git extension for versioning large files.
+* [git-lfs](https://github.com/git-lfs/git-lfs) ⭐ 14,438 | 🐛 483 | 🌐 Go | 📅 2026-08-24 - Git extension for versioning large files.
 * [juicefs](https://github.com/juicedata/juicefs) ⭐ 14,352 | 🐛 202 | 🌐 Go | 📅 2026-08-24 - A distributed POSIX file system built on top of Redis and S3.
 * [fsnotify](https://github.com/fsnotify/fsnotify) ⭐ 10,770 | 🐛 41 | 🌐 Go | 📅 2026-05-11 - Cross-platform file system notifications for Go.
 * [afero](https://github.com/spf13/afero) ⭐ 6,691 | 🐛 128 | 🌐 Go | 📅 2026-08-14 - A FileSystem Abstraction System for Go
 * [goofys](https://github.com/kahing/goofys) ⭐ 5,565 | 🐛 293 | 🌐 Go | 📅 2024-07-18 - A high-performance, POSIX-ish Amazon S3 file system written in Go.
 * [minikeyvalue](https://github.com/geohot/minikeyvalue) ⭐ 3,155 | 🐛 18 | 🌐 Go | 📅 2024-02-10 - A \~1000 line distributed key value store.
 * [go-systemd](https://github.com/coreos/go-systemd) ⭐ 2,710 | 🐛 65 | 🌐 Go | 📅 2026-07-23 - Go bindings to systemd socket activation, journal, D-Bus, and unit files.
-* [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) ⭐ 2,298 | 🐛 277 | 🌐 Go | 📅 2026-08-24 - A user-space file system for interacting with Google Cloud Storage.
+* [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) ⭐ 2,298 | 🐛 279 | 🌐 Go | 📅 2026-08-24 - A user-space file system for interacting with Google Cloud Storage.
 * [svfs](https://github.com/ovh/svfs) ⚠️ Archived - A virtual file system over Openstack Swift built upon fuse.
 * [seaweedfs](https://github.com/chrislusf/seaweedfs) ⭐ 37 | 🐛 1 | 🌐 Go | 📅 2026-07-21 - SeaweedFS is a simple and highly scalable distributed file system for small files.
 
@@ -66,22 +66,22 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 *Databases implemented in Go.*
 
-* [prometheus](https://github.com/prometheus/prometheus) ⭐ 65,797 | 🐛 917 | 🌐 Go | 📅 2026-08-24 - Monitoring system and time series database.
-* [tidb](https://github.com/pingcap/tidb) ⭐ 40,464 | 🐛 6,827 | 🌐 Go | 📅 2026-08-24 - TiDB is a distributed SQL database. Inspired by the design of Google F1.
-* [cockroach](https://github.com/cockroachdb/cockroach) ⭐ 32,413 | 🐛 8,348 | 🌐 Go | 📅 2026-08-07 - A Scalable, Geo-Replicated, Transactional Datastore
-* [influxdb](https://github.com/influxdb/influxdb) ⭐ 31,709 | 🐛 2,148 | 🌐 Rust | 📅 2026-08-20 - Scalable datastore for metrics, events, and real-time analytics
-* [dolt](https://github.com/dolthub/dolt) ⭐ 24,261 | 🐛 709 | 🌐 Go | 📅 2026-08-24 - A MySQL-compatible database with Git-style version control. The first SQL database you can branch and merge.
-* [dgraph](https://github.com/dgraph-io/dgraph) ⭐ 21,779 | 🐛 96 | 🌐 Go | 📅 2026-08-23 - Scalable, Distributed, Low Latency, High Throughput Graph Database.
+* [prometheus](https://github.com/prometheus/prometheus) ⭐ 65,800 | 🐛 918 | 🌐 Go | 📅 2026-08-24 - Monitoring system and time series database.
+* [tidb](https://github.com/pingcap/tidb) ⭐ 40,464 | 🐛 6,829 | 🌐 Go | 📅 2026-08-24 - TiDB is a distributed SQL database. Inspired by the design of Google F1.
+* [cockroach](https://github.com/cockroachdb/cockroach) ⭐ 32,413 | 🐛 8,335 | 🌐 Go | 📅 2026-08-07 - A Scalable, Geo-Replicated, Transactional Datastore
+* [influxdb](https://github.com/influxdb/influxdb) ⭐ 31,710 | 🐛 2,148 | 🌐 Rust | 📅 2026-08-20 - Scalable datastore for metrics, events, and real-time analytics
+* [dolt](https://github.com/dolthub/dolt) ⭐ 24,261 | 🐛 711 | 🌐 Go | 📅 2026-08-24 - A MySQL-compatible database with Git-style version control. The first SQL database you can branch and merge.
+* [dgraph](https://github.com/dgraph-io/dgraph) ⭐ 21,779 | 🐛 97 | 🌐 Go | 📅 2026-08-24 - Scalable, Distributed, Low Latency, High Throughput Graph Database.
 * [rqlite](https://github.com/rqlite/rqlite) ⭐ 17,697 | 🐛 82 | 🌐 Go | 📅 2026-08-20 - The lightweight, distributed, relational database built on SQLite.
 * [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 17,589 | 🐛 776 | 🌐 Go | 📅 2026-08-24 - Time series database designed for monitoring, compatible with PromQL (from Promethueus) and InfluxQL (from Influxdb).
-* [bolt](https://github.com/boltdb/bolt) ⚠️ Archived - A low-level key/value database for Go. This original version by Ben Johnson has been marked as unmaintained and forked by [etcd-io bbolt](https://github.com/etcd-io/bbolt) ⭐ 9,698 | 🐛 31 | 🌐 Go | 📅 2026-08-21.
+* [bolt](https://github.com/boltdb/bolt) ⚠️ Archived - A low-level key/value database for Go. This original version by Ben Johnson has been marked as unmaintained and forked by [etcd-io bbolt](https://github.com/etcd-io/bbolt) ⭐ 9,698 | 🐛 32 | 🌐 Go | 📅 2026-08-24.
 * [groupcache](https://github.com/golang/groupcache) ⭐ 13,331 | 🐛 45 | 🌐 Go | 📅 2024-11-29 - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [Tile38](https://github.com/tidwall/tile38) ⭐ 9,717 | 🐛 163 | 🌐 Go | 📅 2026-08-07 - A geolocation DB with spatial index and realtime geofencing.
 * [immudb](https://github.com/codenotary/immudb) ⭐ 9,020 | 🐛 103 | 🌐 Go | 📅 2026-08-03 - Database with built-in cryptographic proof and verification. Can operate as a key-value store or as relational database (SQL).
 * [go-cache](https://github.com/pmylund/go-cache) ⭐ 8,844 | 🐛 77 | 🌐 Go | 📅 2023-11-20 - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-* [BigCache](https://github.com/allegro/bigcache) ⭐ 8,154 | 🐛 93 | 🌐 Go | 📅 2026-08-17 - Efficient key/value cache for gigabytes of data.
+* [BigCache](https://github.com/allegro/bigcache) ⭐ 8,155 | 🐛 93 | 🌐 Go | 📅 2026-08-17 - Efficient key/value cache for gigabytes of data.
 * [noms](https://github.com/attic-labs/noms) ⚠️ Archived - The versioned, forkable, syncable database.
-* [SpiceDB](https://github.com/authzed/spicedb) ⭐ 6,985 | 🐛 149 | 🌐 Go | 📅 2026-08-21 - A [Zanzibar](https://research.google/pubs/pub48190/)-inspired database that stores, computes, and validates application permissions with support for multiple database backends.
+* [SpiceDB](https://github.com/authzed/spicedb) ⭐ 6,986 | 🐛 149 | 🌐 Go | 📅 2026-08-21 - A [Zanzibar](https://research.google/pubs/pub48190/)-inspired database that stores, computes, and validates application permissions with support for multiple database backends.
 * [goleveldb](https://github.com/syndtr/goleveldb) ⭐ 6,324 | 🐛 111 | 🌐 Go | 📅 2024-05-14 - An implementation of the [LevelDB](https://github.com/google/leveldb) ⭐ 39,355 | 🐛 402 | 🌐 C++ | 📅 2026-03-11 key/value database in the Go.
 * [buntdb](https://github.com/tidwall/buntdb) ⭐ 4,864 | 🐛 32 | 🌐 Go | 📅 2026-05-19 - A fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
 * [pREST](https://github.com/nuveo/prest) ⭐ 4,611 | 🐛 153 | 🌐 Go | 📅 2026-08-21 - Serve a RESTful API from any PostgreSQL database.
@@ -107,7 +107,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 *Database schema migration.*
 
-* [migrate](https://github.com/golang-migrate/migrate) ⭐ 18,848 | 🐛 489 | 🌐 Go | 📅 2026-07-05 - Database migration handling in Golang support MySQL, PostgreSQL, Cassandra, and SQLite.
+* [migrate](https://github.com/golang-migrate/migrate) ⭐ 18,850 | 🐛 489 | 🌐 Go | 📅 2026-07-05 - Database migration handling in Golang support MySQL, PostgreSQL, Cassandra, and SQLite.
 * [sql-migrate](https://github.com/rubenv/sql-migrate) ⭐ 3,419 | 🐛 97 | 🌐 Go | 📅 2026-07-14 - Database migration tool. Allows embedding migrations into the application using go-bindata.
 * [gormigrate](https://github.com/go-gormigrate/gormigrate) ⭐ 1,172 | 🐛 17 | 🌐 Go | 📅 2026-05-26 - Database schema migration helper for Gorm ORM.
 * [darwin](https://github.com/GuiaBolso/darwin) ⭐ 150 | 🐛 5 | 🌐 Go | 📅 2023-02-24 - Database schema evolution library for Go
@@ -117,10 +117,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 *Database tools.*
 
-* [vitess](https://github.com/youtube/vitess) ⭐ 21,243 | 🐛 1,093 | 🌐 Go | 📅 2026-08-24 - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
-* [usql](https://github.com/xo/usql) ⭐ 10,086 | 🐛 118 | 🌐 Go | 📅 2026-06-19 - universal command-line interface for SQL databases
+* [vitess](https://github.com/youtube/vitess) ⭐ 21,243 | 🐛 1,088 | 🌐 Go | 📅 2026-08-24 - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+* [usql](https://github.com/xo/usql) ⭐ 10,087 | 🐛 118 | 🌐 Go | 📅 2026-06-19 - universal command-line interface for SQL databases
 * [pgweb](https://github.com/sosedoff/pgweb) ⭐ 9,487 | 🐛 55 | 🌐 Go | 📅 2026-07-26 - A web-based PostgreSQL database browser
-* [kingshard](https://github.com/flike/kingshard) ⭐ 6,402 | 🐛 160 | 🌐 Go | 📅 2026-06-05 - kingshard is a high performance proxy for MySQL powered by Golang.
+* [kingshard](https://github.com/flike/kingshard) ⭐ 6,401 | 🐛 160 | 🌐 Go | 📅 2026-06-05 - kingshard is a high performance proxy for MySQL powered by Golang.
 * [orchestrator](https://github.com/openark/orchestrator) ⚠️ Archived - MySQL replication topology manager & visualizer
 * [go-mysql](https://github.com/siddontang/go-mysql) ⭐ 4,962 | 🐛 157 | 🌐 Go | 📅 2026-08-23 - A go toolset to handle MySQL protocol and replication.
 * [go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch) ⭐ 4,147 | 🐛 219 | 🌐 Go | 📅 2023-10-22 - Sync your MySQL data into Elasticsearch automatically.
@@ -146,7 +146,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 * Relational Databases
   * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) ⭐ 15,272 | 🐛 72 | 🌐 Go | 📅 2026-08-20 - MySQL driver for Go.
-  * [pgx](https://github.com/jackc/pgx) ⭐ 14,175 | 🐛 251 | 🌐 Go | 📅 2026-08-24 - PostgreSQL driver supporting features beyond those exposed by database/sql.
+  * [pgx](https://github.com/jackc/pgx) ⭐ 14,176 | 🐛 251 | 🌐 Go | 📅 2026-08-24 - PostgreSQL driver supporting features beyond those exposed by database/sql.
   * [pq](https://github.com/lib/pq) ⭐ 9,948 | 🐛 52 | 🌐 Go | 📅 2026-08-20 - Pure Go Postgres driver for database/sql.
   * [go-sqlite3](https://github.com/mattn/go-sqlite3) ⭐ 9,223 | 🐛 159 | 🌐 C | 📅 2026-08-17 - SQLite3 driver for go that using database/sql.
   * [go-mssqldb](https://github.com/denisenkom/go-mssqldb) ⭐ 1,883 | 🐛 177 | 🌐 Go | 📅 2025-04-26 - Microsoft MSSQL driver in go language.
@@ -158,17 +158,17 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
   * [bgc](https://github.com/viant/bgc) ⭐ 21 | 🐛 0 | 🌐 Go | 📅 2024-03-17 - Datastore Connectivity for BigQuery for go.
 
 * NoSQL Databases
-  * [redis](https://github.com/go-redis/redis) ⭐ 22,216 | 🐛 66 | 🌐 Go | 📅 2026-08-24 - Redis client for Golang
+  * [redis](https://github.com/go-redis/redis) ⭐ 22,216 | 🐛 65 | 🌐 Go | 📅 2026-08-24 - Redis client for Golang
   * [cayley](https://github.com/google/cayley) ⭐ 15,060 | 🐛 93 | 🌐 Go | 📅 2026-08-17 - A graph database with support for multiple backends.
   * [redigo](https://github.com/gomodule/redigo) ⭐ 9,857 | 🐛 24 | 🌐 Go | 📅 2025-11-02 - Redigo is a Go client for the Redis database.
-  * [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) ⭐ 8,538 | 🐛 16 | 🌐 Go | 📅 2026-08-20 - The Go driver for MongoDB
+  * [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) ⭐ 8,537 | 🐛 14 | 🌐 Go | 📅 2026-08-24 - The Go driver for MongoDB
   * [gomemcache](https://github.com/bradfitz/gomemcache/) ⭐ 1,883 | 🐛 49 | 🌐 Go | 📅 2026-07-12 - memcache client library for the Go programming language.
   * [gorethink](https://github.com/GoRethink/gorethink) ⭐ 1,646 | 🐛 27 | 🌐 Go | 📅 2025-10-24 - Go language driver for RethinkDB
   * [redis](https://github.com/hoisie/redis) ⭐ 583 | 🐛 15 | 🌐 Go | 📅 2016-07-30 - A simple, powerful Redis client for Go.
   * [aerospike-client-go](https://github.com/aerospike/aerospike-client-go) ⭐ 460 | 🐛 53 | 🌐 Go | 📅 2026-08-24 - Aerospike client in Go language.
   * [redeo](https://github.com/bsm/redeo) ⭐ 443 | 🐛 3 | 🌐 Go | 📅 2023-01-20 - Redis-protocol compatible TCP servers/services.
   * [neoism](https://github.com/jmcvetta/neoism) ⭐ 388 | 🐛 12 | 🌐 Go | 📅 2020-02-16 - Neo4j client for Golang
-  * [gocb](https://github.com/couchbase/gocb) ⭐ 377 | 🐛 1 | 🌐 Go | 📅 2026-08-21 - Official Couchbase Go SDK
+  * [gocb](https://github.com/couchbase/gocb) ⭐ 377 | 🐛 1 | 🌐 Go | 📅 2026-08-24 - Official Couchbase Go SDK
   * [go-couchbase](https://github.com/couchbase/go-couchbase) ⭐ 323 | 🐛 40 | 🌐 Go | 📅 2025-08-25 - Couchbase client in Go
   * [Neo4j-GO](https://github.com/davemeehan/Neo4j-GO) ⚠️ Archived - Neo4j REST Client in golang.
   * [arangolite](https://github.com/solher/arangolite) ⭐ 72 | 🐛 5 | 🌐 Go | 📅 2021-03-10 - Lightweight golang driver for ArangoDB.
@@ -181,7 +181,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
   * [gocql](http://gocql.github.io) - A Go language driver for Apache Cassandra.
 
 * Search and Analytic Databases
-  * [bleve](https://github.com/blevesearch/bleve) ⭐ 11,185 | 🐛 299 | 🌐 Go | 📅 2026-08-21 - A modern text indexing library for go.
+  * [bleve](https://github.com/blevesearch/bleve) ⭐ 11,185 | 🐛 297 | 🌐 Go | 📅 2026-08-24 - A modern text indexing library for go.
   * [elastic](https://github.com/olivere/elastic) ⭐ 7,447 | 🐛 116 | 🌐 Go | 📅 2024-08-08 - Elasticsearch client for Go.
   * [elastigo](https://github.com/mattbaird/elastigo) ⭐ 941 | 🐛 68 | 🌐 Go | 📅 2019-02-05 - A Elasticsearch client library.
   * [skizze](https://github.com/seiflotfy/skizze) - A probabilistic data-structures service and storage.
